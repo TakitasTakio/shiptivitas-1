@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91825a50-eccf-452b-ad31-cfb2fe6662eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Swimlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swimlane.js" afterDir="false" />
-    </list>
+    <list default="true" id="91825a50-eccf-452b-ad31-cfb2fe6662eb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,6 +15,7 @@
     <session id="-1501596374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -89,8 +88,8 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="512" />
-    <option name="y" value="66" />
+    <option name="x" value="179" />
+    <option name="y" value="62" />
     <option name="width" value="1344" />
     <option name="height" value="733" />
   </component>
@@ -147,15 +146,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551751282138</updated>
-      <workItem from="1551751284690" duration="304000" />
+      <workItem from="1551751284690" duration="388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304000" />
+    <option name="totallyTimeSpent" value="388000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="512" y="66" width="1344" height="733" extended-state="0" />
+    <frame x="179" y="62" width="1344" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
